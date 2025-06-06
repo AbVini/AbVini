@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: Be an architect<br>🎲 Fun fact: i love souls like</p>
+<p align="left">✨ Creating bugs since 2018<br>🎯 Goals: Be an architect<br>🎲 Fun fact: i love souls like</p>
 
 ###
 
